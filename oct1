@@ -1,2 +1,5 @@
 hi soft
 Tue 18 Oct 2022 05:47:10 AM PDT
+    PID TTY          TIME CMD
+  20239 pts/0    00:00:00 bash
+  20825 pts/0    00:00:00 ps
