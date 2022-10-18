@@ -3,3 +3,4 @@ total 12
 -rw-rw-r-- 1 sam sam 180 Oct 18 05:47 oct2
 -rw-rw-r-- 1 sam sam  24 Oct 18 05:47 oct3
 -rw-rw-r-- 1 sam sam   0 Oct 18 05:48 test.txt
+/home/sam/Desktop/oct18
